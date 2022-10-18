@@ -4,3 +4,10 @@
 #include <fcntl.h>
 
 
+int open(const char *name, int flags, mode_t mode);
+
+
+
+int open(const char *name, int flags, mode_t mode) {
+    
+}
